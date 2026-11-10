@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+logs/
+TestResults/
+*.swp
+.restart
+uploads/
